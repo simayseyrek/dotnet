@@ -1,0 +1,12 @@
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\bin\Debug\netcoreapp2.1\ConsoleAppNet.deps.json
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\bin\Debug\netcoreapp2.1\ConsoleAppNet.runtimeconfig.json
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\bin\Debug\netcoreapp2.1\ConsoleAppNet.runtimeconfig.dev.json
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\bin\Debug\netcoreapp2.1\ConsoleAppNet.dll
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\bin\Debug\netcoreapp2.1\ConsoleAppNet.pdb
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\obj\Debug\netcoreapp2.1\ConsoleAppNet.csproj.AssemblyReference.cache
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\obj\Debug\netcoreapp2.1\ConsoleAppNet.AssemblyInfoInputs.cache
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\obj\Debug\netcoreapp2.1\ConsoleAppNet.AssemblyInfo.cs
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\obj\Debug\netcoreapp2.1\ConsoleAppNet.csproj.CoreCompileInputs.cache
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\obj\Debug\netcoreapp2.1\ConsoleAppNet.dll
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\obj\Debug\netcoreapp2.1\ConsoleAppNet.pdb
+C:\Users\simayseyrek\source\repos\ConsoleAppNet\ConsoleAppNet\obj\Debug\netcoreapp2.1\ConsoleAppNet.genruntimeconfig.cache
